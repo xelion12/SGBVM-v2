@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".Splash" >
+
+     <ImageView
+        android:id="@+id/splash"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:adjustViewBounds="false"
+        android:baselineAlignBottom="true"
+        android:contentDescription="@string/desc_splash_img"
+        android:cropToPadding="true"
+        android:scaleType="centerInside"
+        android:src="@drawable/splash"
+        android:background="@android:color/white" />
+
+</RelativeLayout>

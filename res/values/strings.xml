@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SGVBM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="desc_splash_img">Splashscreen</string>
+    <string name="menu_news">News</string>
+    <string name="menu_berichte">Spielberichte</string>
+
+</resources>
